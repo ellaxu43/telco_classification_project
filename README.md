@@ -1,10 +1,13 @@
 # Project Goal
 The goal of this project is to discover features that may be related to churn, and use these discoveries to create a machine learning classification model that can predict if a customer is about to churn or not.
 
+***
 # Project Description
 Telco is an internet and phone company with a higher customer turn over than they'd like. Signing new customers up is a lot more expensive that keeping a customer, which is why most companies try so hard to keep thier customers from leaving. 
 
 In this repository I will utilize a telecommunication company's (Telco) customer dataset to perform a very detailed Exploratory Data Analysis to develop a strong understanding of any patterns or trends existing in our data. Secondly, I will process the data and build a series of binary outcome classification models that will try to effectively predict whether a customer will or will not churn from the telecommunications platform.
+
+***
 
 # Project Planning
 ### Plan -> Acquire -> Prepare -> Explore -> Model & Evaluate -> Deliver
@@ -39,6 +42,8 @@ Create a predictions csv file from the best model
 Deliver a 5 minute presentation via a jupyter notebook walkthrough
 Answer questions about my code, process, and findings
 
+***
+
 # Data Dictionary
 Our dataset contains 7043 entries representing 7043 unique customers. There are 21 columns, with 19 features (target feature = 'Churn'). The features are numeric and categorical in nature, so we will need to address these differences before modeling.
 
@@ -52,7 +57,7 @@ Churn — Whether the customer churned or not (Yes or No)
 
 
 **Customer services booked**
-
+&nbsp;
 
 PhoneService — Whether the customer has a phone service (Yes, No)
 
