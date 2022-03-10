@@ -43,10 +43,16 @@ Answer questions about my code, process, and findings
 Our dataset contains 7043 entries representing 7043 unique customers. There are 21 columns, with 19 features (target feature = 'Churn'). The features are numeric and categorical in nature, so we will need to address these differences before modeling.
 
 
+
 **Classification labels**
+
+
 Churn — Whether the customer churned or not (Yes or No)
 
+
+
 **Customer services booked**
+
 
 PhoneService — Whether the customer has a phone service (Yes, No)
 
@@ -67,7 +73,12 @@ StreamingTV — Whether the customer has streaming TV (Yes, No, No internet serv
 StreamingMovies — Whether the customer has streaming movies (Yes, No, No internet service)
 
 
+
+
+
 **Customer account information**
+
+
 Tenure — Number of months the customer has stayed with the company
 
 Contract — The contract term of the customer (Month-to-month, One year, Two year)
@@ -80,7 +91,12 @@ MonthlyCharges — The amount charged to the customer monthly
 
 TotalCharges — The total amount charged to the customer
 
+
+
+
 **Customers demographic info**
+
+
 customerID — Customer ID
 
 Gender — Whether the customer is a male or a female
@@ -94,15 +110,15 @@ Dependents — Whether the customer has dependents or not (Yes, No)
 
 # Steps to Reproduce
 
-Read this README.md
+1. Read this README.md
 
-Download at the aquire.py and project_report.ipynb file into working directory
+2. Download at the aquire.py and project_report.ipynb file into working directory
 
-Create a .gitignore for .env file
+3. Create a .gitignore for .env file
 
-Add your own env file to your directory with username, password, and host address.
+4. Add your own env file to your directory with username, password, and host address.
 
-Run the project_report.ipynb notebook
+5. Run the project_report.ipynb notebook
 
 
 # Initial Questions for the Project
