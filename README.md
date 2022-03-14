@@ -150,12 +150,13 @@ Dependents — Whether the customer has dependents or not (Yes, No)
 &nbsp;
 &nbsp;
 &nbsp;
+1. Are customers who pay manually more likely to churn than customers who pay automatically?
 
-1. Are customers with Fiber internet has different churn rate compare to customers with DSL?
-
-2. Are customers who pay manually more likely to churn than customers who pay automatically?
+2. Are customers with Fiber internet has different churn rate compare to customers with DSL?
 
 3. Do customers who churn have a higher average monthly spend than those who don't?
+
+4. Are customer with Fiber internet has higher monthly charges than customers with DSL? 
 
 ***
 
@@ -173,14 +174,14 @@ Dependents — Whether the customer has dependents or not (Yes, No)
 4. Compute accuracy
 
 
-# Recommendations and Next Steps
+# Recommendations 
 &nbsp;
 &nbsp;
 &nbsp;
+1. Reduce monthly price espicially for fiber optic internet service
 
-1. Reduce cost on monthly charges. 
 
-2. Promote customer to opt in auto pay payment method. 
+2. Promot customer to opt-in auto pay by offer a small discount.
 
 
 
@@ -189,6 +190,6 @@ Dependents — Whether the customer has dependents or not (Yes, No)
 &nbsp;
 &nbsp;
 
-1. Would like to further investigate the service behind Fiber internet. 
+1. Need more time to investigate the fiber optic inernet services, the service quality, cause of the higher price.... etc.
 
 
